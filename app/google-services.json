@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709740908696",
+    "project_id": "fir-f52ad",
+    "storage_bucket": "fir-f52ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709740908696:android:5fe1fd52d5b9ce9eea80ed",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26vBILwitsKLDFEwOxSYQ-4drxNbELSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
